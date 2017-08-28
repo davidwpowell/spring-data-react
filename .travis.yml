@@ -1,0 +1,4 @@
+language: java
+
+notifications:
+    slack: jvd-app:65g9YvdzfR084dT74rMlPEYS
